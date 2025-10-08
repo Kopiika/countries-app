@@ -51,8 +51,8 @@ VITE_SOME_KEY=your_openweathermap_api_key
 
 1. Clone the repository and navigate to the **`countries`** folder:
 	```bash
-	git clone fullstack_open_course
-	cd part2/countries
+	git clone countries-app
+	cd countries-app
 	```
 2. Install dependencies:
 	```bash
